@@ -1,0 +1,8 @@
+
+---
+
+### 🔒 Exemple de `.gitignore`
+
+```gitignore
+focalboard-data/
+*.log
